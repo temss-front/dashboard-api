@@ -10,5 +10,5 @@ server.get("/hello", (req, res) => {
 
 
 server.listen(port, () => {
-    console.log(`Server starts on http://localhost:${port}`)
+    console.log(`Server starts on http://5.63.155.234:${port}`)
 })
