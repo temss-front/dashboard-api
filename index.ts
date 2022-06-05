@@ -5,7 +5,7 @@ const port = 8000
 const server = express()
 
 server.get("/hello", (req, res) => {
-    res.send("Hello")
+    res.send("Дима уходи!")
 })
 
 
